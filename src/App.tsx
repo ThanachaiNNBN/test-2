@@ -6,6 +6,7 @@ import './App.css'
 function App() {
   const [count, setCount] = useState(0)
   const [c, setc] = useState(0)
+  const [z, setz] = useState(0)
 
   return (
     <>
